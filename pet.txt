@@ -1,0 +1,5 @@
+Dog:jerome:2:brown:male:mutt:waggy:slobbery:true 
+bird:Bessie:3:green:female:pidgeon:yes:10 
+Turtle:blastoise:4:blue:male:water:false 
+
+Cat

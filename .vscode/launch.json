@@ -1,0 +1,490 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RemoveWordFromFile",
+            "request": "launch",
+            "mainClass": "RemoveWordFromFile",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "AiCode",
+            "request": "launch",
+            "mainClass": "AiCode",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "GetPetList",
+            "request": "launch",
+            "mainClass": "p8.GetPetList",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "booleantest",
+            "request": "launch",
+            "mainClass": "booleantest",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "GetPetList",
+            "request": "launch",
+            "mainClass": "p8.GetPetList",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "GUI_Demo",
+            "request": "launch",
+            "mainClass": "GUI_Demo",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "example/DemonstrateRecursion_Factorial",
+            "request": "launch",
+            "mainClass": "com.example/DemonstrateRecursion_Factorial",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveGameMenu",
+            "request": "launch",
+            "mainClass": "p7.RecursiveGameMenu",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveGameMenu",
+            "request": "launch",
+            "mainClass": "p7.RecursiveGameMenu",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "FixThisCapitalization",
+            "request": "launch",
+            "mainClass": "p6.FixThisCapitalization",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "processLine",
+            "request": "launch",
+            "mainClass": "processLine",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "FixThisCapitalization",
+            "request": "launch",
+            "mainClass": "FixThisCapitalization",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "TwoThreads",
+            "request": "launch",
+            "mainClass": "TwoThreads",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "FixThisCapitalization",
+            "request": "launch",
+            "mainClass": "p6.FixThisCapitalization",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "TestDataStream",
+            "request": "launch",
+            "mainClass": "TestDataStream",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "TestFileStream",
+            "request": "launch",
+            "mainClass": "TestFileStream",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "SecureRandomExample",
+            "request": "launch",
+            "mainClass": "SecureRandomExample",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "CookingDinner",
+            "request": "launch",
+            "mainClass": "p5.CookingDinner",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "CookingDinner",
+            "request": "launch",
+            "mainClass": "p5.CookingDinner",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "CarAndDriver",
+            "request": "launch",
+            "mainClass": "p3.CarAndDriver",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "TestingCircleWithStaticMembers",
+            "request": "launch",
+            "mainClass": "TestingCircleWithStaticMembers",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "Introduction",
+            "request": "launch",
+            "mainClass": "Introduction",
+            "projectName": "AdvanceJava_864b4a5d"
+        },
+        {
+            "type": "java",
+            "name": "Introduction",
+            "request": "launch",
+            "mainClass": "Introduction",
+            "projectName": "AdvanceJava_3fc8d50f"
+        },
+        {
+            "type": "java",
+            "name": "OccuranceObject",
+            "request": "launch",
+            "mainClass": "OccuranceObject",
+            "projectName": "java_e90f42ae"
+        },
+        {
+            "type": "java",
+            "name": "findDuplicate",
+            "request": "launch",
+            "mainClass": "findDuplicate",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "dominioSwap",
+            "request": "launch",
+            "mainClass": "dominioSwap",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "ShuffleString",
+            "request": "launch",
+            "mainClass": "ShuffleString",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "chCasting",
+            "request": "launch",
+            "mainClass": "chCasting",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "ComputeAndIntrepretBMI",
+            "request": "launch",
+            "mainClass": "ComputeAndIntrepretBMI",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateCharSubstrings",
+            "request": "launch",
+            "mainClass": "DuplicateCharSubstrings",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Fibon",
+            "request": "launch",
+            "mainClass": "Fibon",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "SortingArrayWithoutSecondArray",
+            "request": "launch",
+            "mainClass": "SortingArrayWithoutSecondArray",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Foo",
+            "request": "launch",
+            "mainClass": "Foo",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "lecture9",
+            "request": "launch",
+            "mainClass": "lecture9",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "Notes22",
+            "request": "launch",
+            "mainClass": "Notes22",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfHexagon",
+            "request": "launch",
+            "mainClass": "AreaOfHexagon",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "Test12",
+            "request": "launch",
+            "mainClass": "Test12",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "TestGeo",
+            "request": "launch",
+            "mainClass": "TestGeo",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "CreateFans",
+            "request": "launch",
+            "mainClass": "CreateFans",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "CreateFans",
+            "request": "launch",
+            "mainClass": "CreateFans",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "lecture9",
+            "request": "launch",
+            "mainClass": "lecture9",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateSort",
+            "request": "launch",
+            "mainClass": "DuplicateSort",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "lecture8",
+            "request": "launch",
+            "mainClass": "lecture8",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "TestMath",
+            "request": "launch",
+            "mainClass": "TestMath",
+            "projectName": "java_dd7ef3fe"
+        },
+        {
+            "type": "java",
+            "name": "OverloadedAvgArray",
+            "request": "launch",
+            "mainClass": "OverloadedAvgArray",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateSort",
+            "request": "launch",
+            "mainClass": "DuplicateSort",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "lect7",
+            "request": "launch",
+            "mainClass": "lect7",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "SortNumbers",
+            "request": "launch",
+            "mainClass": "SortNumbers",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsInInt",
+            "request": "launch",
+            "mainClass": "SumOfDigitsInInt",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "TuitionIncrease",
+            "request": "launch",
+            "mainClass": "TuitionIncrease",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "TutitonIncrease",
+            "request": "launch",
+            "mainClass": "TutitonIncrease",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "MilesToKilometersTable",
+            "request": "launch",
+            "mainClass": "MilesToKilometersTable",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfHexagon",
+            "request": "launch",
+            "mainClass": "AreaOfHexagon",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "CelsiusToFahrenheit",
+            "request": "launch",
+            "mainClass": "CelsiusToFahrenheit",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "CheckLetterForVorC",
+            "request": "launch",
+            "mainClass": "CheckLetterForVorC",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Lecture3",
+            "request": "launch",
+            "mainClass": "Lecture3",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "LectureFour",
+            "request": "launch",
+            "mainClass": "LectureFour",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Module5Loops",
+            "request": "launch",
+            "mainClass": "Module5Loops",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Notes22",
+            "request": "launch",
+            "mainClass": "Notes22",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Notes2_2",
+            "request": "launch",
+            "mainClass": "Notes2_2",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "Quiz",
+            "request": "launch",
+            "mainClass": "Quiz",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "TestBoolean",
+            "request": "launch",
+            "mainClass": "TestBoolean",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "TestMath",
+            "request": "launch",
+            "mainClass": "TestMath",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "TipCalculator",
+            "request": "launch",
+            "mainClass": "TipCalculator",
+            "projectName": "java_e003390c"
+        },
+        {
+            "type": "java",
+            "name": "WelcomeToJava5Times",
+            "request": "launch",
+            "mainClass": "WelcomeToJava5Times",
+            "projectName": "java_e003390c"
+        }
+    ]
+}

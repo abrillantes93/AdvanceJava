@@ -1,0 +1,11 @@
++-----------------------------+
+        RecursiveGame        
++-----------------------------+
+ +FactorialGame(gameCont: boolean): boolean  
+ +FibonacciGame(gameCont: boolean): boolean  
+ +ReverseGame(gameCont: boolean): boolean    
++-----------------------------+
+ -Reverse(index: int): long                  
+ -Factorial(index: long): long               
+ -Fibonacci(index: int): long                
++-----------------------------+

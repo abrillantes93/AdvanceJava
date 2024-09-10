@@ -1,0 +1,17 @@
+ - age: int                  
+ - cake: String              
+ - numberOfCandles: int      
+ - decorations: String       
+ - scanner: Scanner          
++-----------------------------+
+ + BirthdayParty(age: int)   
+ + setAge(age: int): void    
+ + setCake(cake: String): void
+ + setCandles(numberOfCandles: int): void 
+ + setDecorations(decorations: String): void 
+ + getAge(): int             
+ + getCake(): String         
+ + getNumberofCandles(): int 
+ + getDecorations(): String  
+ + setCakeCandlesDecorations(): void 
+ + toString(): String        

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../d1"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.sourcePaths": [
+			"old",
+			""
+		]
+	}
+}
